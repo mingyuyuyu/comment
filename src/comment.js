@@ -30,8 +30,6 @@ const commentList = {
     data() {
         return {
             reply: '',
-            item: '',
-            idx: ''
         }
     },
     methods: {
